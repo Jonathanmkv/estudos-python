@@ -4,10 +4,11 @@ Aqui concentro meus exercícios práticos de lógica e sintaxe da linguagem Pyth
 
 ## 📚 Índice de Exercícios
 
-| Arquivo | O que aprendi |
-| :--- | :--- |
-| [`calculadora_media.py`](./calculadora_media.py) | Input, variáveis float, if/else e operadores lógicos (`or`). |
-| [`exercicio_calculo_expressao.py`](./exercicio_calculo_expressao.py) | Funções (`def`), tratamento de erros (`try/except`) e função `eval`. |
+| Arquivo | Tecnologias | Descrição
+| :--- | :--- | :--- |
+| [calculadora_media.py](./calculadora_media.py) | Input, variáveis float, if/else e or | Calcula média de notas escolares |
+| [exercicio_calculo_expressao.py](./exercicio_calculo_expressao.py) | Funções (def), try/except e eval | Resolve expressões matemáticas com tratamento de erro |
+| [03_calculadora_restaurante.py](./03_calculadora_restaurante.py) | while, try/except, Funções e F-strings | Simula pedido com menu interativo e validação de dados |
 
 ---
 **Como rodar:**
